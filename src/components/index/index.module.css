@@ -1,0 +1,14 @@
+.MoviesContainer {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  padding: 6vh;
+}
+
+.MovieSingle {
+  margin-left: 4vh;
+  margin-bottom: 4vh;
+  box-sizing: border-box;
+}

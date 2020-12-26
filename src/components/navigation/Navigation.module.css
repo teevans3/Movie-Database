@@ -1,0 +1,33 @@
+.Nav {
+  padding-top: 20px;
+}
+
+.NavHome {
+  float: left;
+  width: 20%;
+}
+.NavGenre {
+  float: left;
+  width: 74.5%;
+}
+.NavGenre .NavLink {
+  float: right;
+}
+
+.NavLink {
+  border: none;
+  color: white;
+  font-weight: bold;
+  background-color: black;
+  width: 80px;
+  height: 36px;
+  margin: 0 2px 0 2px;
+}
+
+.NavLink:hover {
+  cursor: pointer;
+  color: lime;
+}
+
+.HomeLink {
+}
